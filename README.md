@@ -1,4 +1,4 @@
-# springboot3-template
+# springboot2-template
 
 ## installation
 `git clone https://github.com/Jskyu/springboot2.7.18-template`
